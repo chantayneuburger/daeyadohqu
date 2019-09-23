@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oguuyeega.psycareer.ru/sitemap.xml
